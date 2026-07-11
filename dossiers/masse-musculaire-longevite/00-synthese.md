@@ -30,6 +30,7 @@ Trois raisons de traiter ce sujet comme fondation plutôt que comme un post parm
 | `04-accessible-debutants.md` | Home-training vs salle pour un public totalement novice : preuve que ce n'est pas un compromis, marqueurs de progression sans matériel, piste ludique/adhésion |
 | `05-principe-effort-relatif.md` | **Le détail manquant le plus fort du dossier** — pourquoi c'est l'effort relatif (proximité de l'échec), pas la charge, qui construit le muscle ; méthode RPE/RIR applicable sans salle ni test de charge maximale |
 | `06-ludique-adhesion.md` | Ce qui rend la pratique désirable dans la durée (autonomie/compétence/relation), sans vocabulaire "gamification" — et le lien direct avec le ton coéquipier déjà choisi par la charte |
+| `07-timeline.md` | **Vue de synthèse** — les 4 points (entrée/suivi/développement/plateau) posés sur une ligne de temps, avec les semaines ancrées sur les études, et le lien avec le tunnel YouTube → Miroir → Programme J+14 |
 
 ## Rappel de méthode (charte de production)
 
