@@ -28,6 +28,8 @@ Trois raisons de traiter ce sujet comme fondation plutôt que comme un post parm
 | `02-angles-editoriaux.md` | Reformulations dans la doctrine CohérenceLab, connexions aux protocoles existants |
 | `03-sujets-youtube.md` | Sujets concrets mappés sur les 3 formats de la chaîne (détail manquant / geste de la semaine / page manquante) |
 | `04-accessible-debutants.md` | Home-training vs salle pour un public totalement novice : preuve que ce n'est pas un compromis, marqueurs de progression sans matériel, piste ludique/adhésion |
+| `05-principe-effort-relatif.md` | **Le détail manquant le plus fort du dossier** — pourquoi c'est l'effort relatif (proximité de l'échec), pas la charge, qui construit le muscle ; méthode RPE/RIR applicable sans salle ni test de charge maximale |
+| `06-ludique-adhesion.md` | Ce qui rend la pratique désirable dans la durée (autonomie/compétence/relation), sans vocabulaire "gamification" — et le lien direct avec le ton coéquipier déjà choisi par la charte |
 
 ## Rappel de méthode (charte de production)
 
