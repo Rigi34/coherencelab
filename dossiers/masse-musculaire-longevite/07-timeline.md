@@ -33,7 +33,23 @@ La recherche du dossier (06) établit que l'autonomie devient le besoin dominant
 - *Geste de la semaine* est structuré et encadrant (point 2) — exactement ce qui aide à démarrer, pas à traverser un plateau.
 - *La page manquante* est un format de fond scientifique (point 3) — informatif, pas un format de soutien à la reprise après un ralentissement.
 
-Aucun des trois ne propose de choix, ce qui est justement ce que la recherche identifie comme nécessaire à ce stade. **Ne pas trancher ici** ce que devrait être ce format — juste documenter que c'est identifié et qu'il manque un quatrième format ou une séquence email dédiée, à concevoir séparément.
+Aucun des trois ne propose de choix, ce qui est justement ce que la recherche identifie comme nécessaire à ce stade.
+
+## Le point 4 développé — trois mécanismes, pas un format tranché
+
+Recherche complémentaire pour combler le trou plutôt que le documenter seul. Trois leviers, distincts et complémentaires, ressortent de la littérature sur le maintien de l'activité physique et le rebond après un arrêt :
+
+**1. La planification anticipée, pas la volonté au moment du fait.** Les stratégies d'auto-régulation qui fonctionnent chez les seniors combinent fixation d'objectifs, auto-suivi, planification d'action et **résolution de problème anticipée face au risque de rechute** — décidée à l'avance, pas improvisée le jour où la motivation manque. Source : revue sur les interventions d'auto-régulation chez les seniors, PMC8741142.
+
+**2. Un menu de choix au moment de la reprise, jamais un chemin unique imposé.** C'est la technique centrale de l'entretien motivationnel pour soutenir l'autonomie : accueillir le point de vue de la personne, fixer l'agenda ensemble, **offrir un menu de choix efficaces** plutôt qu'une seule voie, sans pression ni persuasion directe. Source : *Motivational Interviewing: moving from why to how with autonomy support*, International Journal of Behavioral Nutrition and Physical Activity.
+
+**3. L'auto-compassion, pas la culpabilisation, comme moteur de reprise.** Chez des adultes ayant vécu un vrai passage à vide dans leur pratique, ceux avec un niveau élevé d'auto-compassion se sont réengagés davantage et ont vécu l'écart avec moins d'affect négatif. Chez les seniors spécifiquement, l'auto-compassion atténue la réaction aux événements négatifs en général — pertinent puisque le vieillissement multiplie les passages à vide (santé, capacités, deuils). Une intervention à distance de 6 semaines basée sur l'auto-compassion chez des seniors a montré une adhésion élevée et un abandon de seulement 4 %. Sources : étude sur l'auto-compassion et les écarts d'exercice (105 adultes) ; *Remotely-administered resilience and self-compassion intervention... in older adults*.
+
+**Ce que ça donne comme principe pour le futur format/séquence** (à concevoir, pas encore décidé) : ne pas répondre à un ralentissement par plus de structure ou un rappel culpabilisant — répondre par un choix simple laissé à la personne, et une reconnaissance explicite que l'écart fait partie du chemin plutôt qu'un échec. C'est cohérent avec le ton coéquipier déjà en place, pas une nouvelle direction à inventer.
+
+**Canal probable, pas tranché :** une séquence email plutôt qu'une vidéo — le plateau touche chaque personne à un moment différent de son parcours, ce qui correspond à un déclenchement individuel (email V2 déjà existant, cf. `project_brevo_setup.md`) plutôt qu'à une diffusion groupée type YouTube.
+
+**Limite honnête :** le chiffre "35-50 % de rechute en moins" trouvé en recherche vient d'un contexte de suivi clinique/addiction (Relapse-Prevention Plan), pas d'un essai sur l'activité physique — cité ici comme indice de la force du mécanisme de planification anticipée en général, pas comme statistique transposable telle quelle à l'exercice. À ne pas réutiliser tel quel dans un script sans le requalifier.
 
 ## Lecture pratique du tableau
 
