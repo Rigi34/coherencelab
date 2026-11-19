@@ -175,7 +175,7 @@ Colonne de gauche : ce qui se dit. Indications **[IMAGE]** : ce qu'on voit.
 
 ## Notes pour la suite
 
-1. **Faits à vérifier avant tournage** : place exacte en 2005 (« dans les dix premiers » ?), année de la seconde participation, le 100 km de Prospect Park (non mentionné sur la page « À propos » : l'ajouter ou le garder pour une vidéo YouTube), âge (la page dit 57 ans, le script 58 : harmoniser).
+1. **Faits à vérifier avant tournage** : place exacte en 2005 (« dans les dix premiers » ?), année de la seconde participation, le 100 km de Prospect Park (non mentionné sur la page « À propos » : l'ajouter ou le garder pour une vidéo YouTube), âge : 58 ans (mettre à jour la page « À propos », qui indique encore 57 ans).
 2. **Allégations santé** : rester sur « récupérer », « tenir », « mieux se connaître ». Jamais « soigner », « guérir », ni chiffres de résultats garantis.
 3. **Tournage** : vraie voix et vrai visage pour la VSL. Les montages Pexels + ElevenLabs sont parfaits pour les **courts formats** (Instagram, TikTok, YouTube Shorts) qui amènent vers la VSL, pas pour la VSL elle-même.
 4. **Cohérence de marque** : la page de vente de test (`index.html`, style Hormozi) contredit le ton de RÉGÉNÉR'ACTION (« pas de transformation en 30 jours »). Elle sera réécrite à partir de ce script.
